@@ -1,9 +1,3 @@
 # DeepUrlCrawler
-crawl website recursively, python implements
-
-### Requirments
-
-* python >= 3.x
-* requests
-* lxml
-* pandas
+Crawl website recursively using Chromium web driver and generate vector embeddings using Open AI
+Ask questions on the resultant corpus using Chat GPT
